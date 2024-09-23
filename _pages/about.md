@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Author Biography"
+title: "Qianxi Zhang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,11 @@ My current research interests include image processing and computer vision.
 
 📖 Education
 ======
-</ul>2024.09 - present, Ph.D. candidate in School of Information Engineering, Chang'an University, Xi'an.
+(*)2024.09 - present, Ph.D. candidate in School of Information Engineering, Chang'an University, Xi'an.
 
-</ul>2022.09 - 2024.06, M.E. in School of Information Engineering, Chang'an University, Xi'an.
+(*)2022.09 - 2024.06, M.E. in School of Information Engineering, Chang'an University, Xi'an.
 
-</ul>2018-09 - 2022.06, B.E. in School of Information Engineering, Chang'an University, Xi'an.
+(*)2018-09 - 2022.06, B.E. in School of Information Engineering, Chang'an University, Xi'an.
 
 📝 Publications
 ======
