@@ -21,11 +21,11 @@ My current research interests include image processing and computer vision.
 
 📝 Publications
 ======
-1. Spatial-Temporal Sequence Attention Based Efficient Transformer for Video Snow Removal. (Accepted by BDMA)
-2. Multi-resolution Progressive Facial Learning for Under-display Camera Image Restoration.(Submitted to PR)
+* Spatial-Temporal Sequence Attention Based Efficient Transformer for Video Snow Removal. (Accepted by BDMA)
+* Multi-resolution Progressive Facial Learning for Under-display Camera Image Restoration.(Submitted to PR)
 
-🎖 Honors and Awards
+🥇 Honors and Awards
 ======
-· 2022 NCAA Mathematical Modeling Competition， M Prize.
-· 2022 BETT National College Student English Contest，First Prize.
-· 2022 Excellent Graduates of Chang'an University.
+* 2022 NCAA Mathematical Modeling Competition， M Prize.
+* 2022 BETT National College Student English Contest，First Prize.
+* 2022 Excellent Graduates of Chang'an University.
